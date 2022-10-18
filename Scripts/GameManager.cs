@@ -26,7 +26,7 @@ public class GameManager : MonoBehaviour
     void Start()
     {
         createPuzzle(7);
-        createBoard();
+        createBoardEasy();
         bindImage();
     }
 
@@ -44,7 +44,7 @@ public class GameManager : MonoBehaviour
         }
     }
 
-    void createBoard()
+    void createBoardEasy()
     {
 
         //puzzleList[9].transform.position = new Vector2(startPosition.x, startPosition.y + offset.y);
@@ -60,6 +60,42 @@ public class GameManager : MonoBehaviour
         puzzleList[6].transform.position = new Vector2(startPosition.x, startPosition.y - (2 * offset.y));
         puzzleList[7].transform.position = new Vector2(startPosition.x + offset.x, startPosition.y - (2 * offset.y));
         //puzzleList[8].transform.position = new Vector2(startPosition.x + (2 * offset.x), startPosition.y - (2 * offset.y));
+    }
+
+    void createBoardMedium()
+    {
+
+        ////puzzleList[9].transform.position = new Vector2(startPosition.x, startPosition.y + offset.y);
+
+        //puzzleList[0].transform.position = new Vector2(startPosition.x, startPosition.y);
+        //puzzleList[1].transform.position = new Vector2(startPosition.x + offset.x, startPosition.y);
+        //puzzleList[2].transform.position = new Vector2(startPosition.x + (2 * offset.x), startPosition.y);
+
+        //puzzleList[3].transform.position = new Vector2(startPosition.x, startPosition.y - offset.y);
+        //puzzleList[4].transform.position = new Vector2(startPosition.x + offset.x, startPosition.y - offset.y);
+        //puzzleList[5].transform.position = new Vector2(startPosition.x + (2 * offset.x), startPosition.y - offset.y);
+
+        //puzzleList[6].transform.position = new Vector2(startPosition.x, startPosition.y - (2 * offset.y));
+        //puzzleList[7].transform.position = new Vector2(startPosition.x + offset.x, startPosition.y - (2 * offset.y));
+        ////puzzleList[8].transform.position = new Vector2(startPosition.x + (2 * offset.x), startPosition.y - (2 * offset.y));
+    }
+
+    void createBoardHard()
+    {
+
+        ////puzzleList[9].transform.position = new Vector2(startPosition.x, startPosition.y + offset.y);
+
+        //puzzleList[0].transform.position = new Vector2(startPosition.x, startPosition.y);
+        //puzzleList[1].transform.position = new Vector2(startPosition.x + offset.x, startPosition.y);
+        //puzzleList[2].transform.position = new Vector2(startPosition.x + (2 * offset.x), startPosition.y);
+
+        //puzzleList[3].transform.position = new Vector2(startPosition.x, startPosition.y - offset.y);
+        //puzzleList[4].transform.position = new Vector2(startPosition.x + offset.x, startPosition.y - offset.y);
+        //puzzleList[5].transform.position = new Vector2(startPosition.x + (2 * offset.x), startPosition.y - offset.y);
+
+        //puzzleList[6].transform.position = new Vector2(startPosition.x, startPosition.y - (2 * offset.y));
+        //puzzleList[7].transform.position = new Vector2(startPosition.x + offset.x, startPosition.y - (2 * offset.y));
+        ////puzzleList[8].transform.position = new Vector2(startPosition.x + (2 * offset.x), startPosition.y - (2 * offset.y));
     }
 
     void bindImage()
