@@ -21,6 +21,8 @@ public class GameManager : MonoBehaviour
 
     public GameObject fullPicture;
 
+    public string gameName;
+
     public GameObject test;
     // Start is called before the first frame update
     void Start()
@@ -100,7 +102,7 @@ public class GameManager : MonoBehaviour
 
     void bindImage()
     {
-        string filePath = "Sprite/Puzzle/owl";
+        string filePath = "Sprite/Puzzle/" + gameName + "1";
         //string defaultImg = "Sprite/Puzzle/whitebox";
         string spriteName;
         for (int i = 0; i < puzzleList.Count; i++)
@@ -113,7 +115,7 @@ public class GameManager : MonoBehaviour
             //}
             //else
             //{
-                spriteName = "owl_" + i;
+                spriteName = gameName + "1_" + i;
                 puzzleList[i].GetComponent<SpriteRenderer>().sprite = LoadSprite(filePath, spriteName);
             //}
 

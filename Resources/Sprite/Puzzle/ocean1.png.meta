@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 963e38fa410d47f4782dacafa0b1c6fa
+guid: 70c428e986d68da4284e2814930a26c2
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -42,7 +42,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -117,190 +117,190 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: owl_0
+      name: ocean_0
       rect:
         serializedVersion: 2
         x: 0
         y: 308.6667
         width: 151.33333
         height: 151.33333
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1327170ab5a346c42ae7b808d025f7c1
-      internalID: 533683281
+      spriteID: 9476f50e06903d14786647b87580a3fb
+      internalID: 1109989129
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: owl_1
+      name: ocean_1
       rect:
         serializedVersion: 2
         x: 153
         y: 308.6667
         width: 151.33333
         height: 151.33333
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f2dd75e4cf13aa14c9c911c7b39087eb
-      internalID: 2122113272
+      spriteID: 0d8d3151d283e2c43afe390b710ed045
+      internalID: -1366798235
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: owl_2
+      name: ocean_2
       rect:
         serializedVersion: 2
         x: 306
         y: 308.6667
         width: 151.33333
         height: 151.33333
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b6f36609399634c48b3477dffc8737c2
-      internalID: -342091605
+      spriteID: 8c4e261949aa24d428d555da6bff2843
+      internalID: 742663168
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: owl_3
+      name: ocean_3
       rect:
         serializedVersion: 2
         x: 0
         y: 155.66667
         width: 151.33333
         height: 151.33333
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f23191638e8b38b4f81deb2ed39899e6
-      internalID: 2039338685
+      spriteID: ee273ffc230bd95439c599fdc01d007a
+      internalID: 558469399
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: owl_4
+      name: ocean_4
       rect:
         serializedVersion: 2
         x: 153
         y: 155.66667
         width: 151.33333
         height: 151.33333
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 46f759d804e16c148bb764ca7874a154
-      internalID: 2034687051
+      spriteID: c0f130cccb11cc649b49dedd6a448614
+      internalID: -279529629
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: owl_5
+      name: ocean_5
       rect:
         serializedVersion: 2
         x: 306
         y: 155.66667
         width: 151.33333
         height: 151.33333
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f528cc49ee5325a43941a231d28b77b7
-      internalID: 962966319
+      spriteID: 5e911b6843a4f20458f07fca6db40d81
+      internalID: 603585490
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: owl_6
+      name: ocean_6
       rect:
         serializedVersion: 2
         x: 0
         y: 2.6666718
         width: 151.33333
         height: 151.33333
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a17a4aa20866ef94aba1d2ae87eec469
-      internalID: -922342744
+      spriteID: 35f1adf1b3b01b74b852a44ad7062ce8
+      internalID: -1907397034
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: owl_7
+      name: ocean_7
       rect:
         serializedVersion: 2
         x: 153
         y: 2.6666718
         width: 151.33333
         height: 151.33333
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6482050e353a19e4e8b9e7d6967c967f
-      internalID: -323543006
+      spriteID: b2686b168d5b1fd46960a61f813e494e
+      internalID: 388979937
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: owl_8
+      name: ocean_8
       rect:
         serializedVersion: 2
         x: 306
         y: 2.6666718
         width: 151.33333
         height: 151.33333
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0ae963d9bf5218341a1f6ddb97b4d68a
-      internalID: -654291873
+      spriteID: 1c9e74b3cc052f540ba98be02196376e
+      internalID: -2141678069
       vertices: []
       indices: 
       edges: []
@@ -316,15 +316,15 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      owl_8: -654291873
-      owl_2: -342091605
-      owl_0: 533683281
-      owl_5: 962966319
-      owl_4: 2034687051
-      owl_3: 2039338685
-      owl_1: 2122113272
-      owl_7: -323543006
-      owl_6: -922342744
+      ocean_5: 603585490
+      ocean_0: 1109989129
+      ocean_8: -2141678069
+      ocean_7: 388979937
+      ocean_2: 742663168
+      ocean_1: -1366798235
+      ocean_4: -279529629
+      ocean_6: -1907397034
+      ocean_3: 558469399
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

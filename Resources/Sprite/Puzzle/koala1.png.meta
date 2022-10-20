@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 963e38fa410d47f4782dacafa0b1c6fa
+guid: 67f7332e41e85ce49a7deec9c4a284aa
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -42,7 +42,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -117,190 +117,190 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: owl_0
+      name: koala_0
       rect:
         serializedVersion: 2
         x: 0
         y: 308.6667
         width: 151.33333
         height: 151.33333
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1327170ab5a346c42ae7b808d025f7c1
-      internalID: 533683281
+      spriteID: 16e8fd480a5699845b2bb24fe6a604b7
+      internalID: -349076286
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: owl_1
+      name: koala_1
       rect:
         serializedVersion: 2
         x: 153
         y: 308.6667
         width: 151.33333
         height: 151.33333
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f2dd75e4cf13aa14c9c911c7b39087eb
-      internalID: 2122113272
+      spriteID: 158e921acb9519b4fbb229ddaa4ccf82
+      internalID: 1404420800
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: owl_2
+      name: koala_2
       rect:
         serializedVersion: 2
         x: 306
         y: 308.6667
         width: 151.33333
         height: 151.33333
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b6f36609399634c48b3477dffc8737c2
-      internalID: -342091605
+      spriteID: c821cc00100f43248a0e00dd3df65f78
+      internalID: 1465461582
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: owl_3
+      name: koala_3
       rect:
         serializedVersion: 2
         x: 0
         y: 155.66667
         width: 151.33333
         height: 151.33333
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f23191638e8b38b4f81deb2ed39899e6
-      internalID: 2039338685
+      spriteID: 1a5a16dab0264f44fa4405ff3be362e7
+      internalID: 375593726
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: owl_4
+      name: koala_4
       rect:
         serializedVersion: 2
         x: 153
         y: 155.66667
         width: 151.33333
         height: 151.33333
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 46f759d804e16c148bb764ca7874a154
-      internalID: 2034687051
+      spriteID: 5b5af423a8e7e1f40bb9f0b089df6bb7
+      internalID: -67685
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: owl_5
+      name: koala_5
       rect:
         serializedVersion: 2
         x: 306
         y: 155.66667
         width: 151.33333
         height: 151.33333
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f528cc49ee5325a43941a231d28b77b7
-      internalID: 962966319
+      spriteID: c69107119419e714e952cf78656da020
+      internalID: -1237281995
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: owl_6
+      name: koala_6
       rect:
         serializedVersion: 2
         x: 0
         y: 2.6666718
         width: 151.33333
         height: 151.33333
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a17a4aa20866ef94aba1d2ae87eec469
-      internalID: -922342744
+      spriteID: c5ff51f08ffce6c40b78fc95d7382a73
+      internalID: -798364135
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: owl_7
+      name: koala_7
       rect:
         serializedVersion: 2
         x: 153
         y: 2.6666718
         width: 151.33333
         height: 151.33333
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6482050e353a19e4e8b9e7d6967c967f
-      internalID: -323543006
+      spriteID: 7a5d634c7c7755f4093a42e80b7030b8
+      internalID: -543138724
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: owl_8
+      name: koala_8
       rect:
         serializedVersion: 2
         x: 306
         y: 2.6666718
         width: 151.33333
         height: 151.33333
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0ae963d9bf5218341a1f6ddb97b4d68a
-      internalID: -654291873
+      spriteID: 35316fea7cd7dbe4ebff1b28d1356b43
+      internalID: -950307157
       vertices: []
       indices: 
       edges: []
@@ -316,15 +316,15 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      owl_8: -654291873
-      owl_2: -342091605
-      owl_0: 533683281
-      owl_5: 962966319
-      owl_4: 2034687051
-      owl_3: 2039338685
-      owl_1: 2122113272
-      owl_7: -323543006
-      owl_6: -922342744
+      koala_5: -1237281995
+      koala_7: -543138724
+      koala_4: -67685
+      koala_1: 1404420800
+      koala_8: -950307157
+      koala_2: 1465461582
+      koala_3: 375593726
+      koala_0: -349076286
+      koala_6: -798364135
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

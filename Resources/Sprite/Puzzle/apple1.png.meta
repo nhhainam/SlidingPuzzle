@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 963e38fa410d47f4782dacafa0b1c6fa
+guid: eff0b524e68a6aa4c9079a9571bb49d6
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -42,13 +42,13 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
-  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteBorder: {x: 153, y: 153, z: 153, w: 153}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
   alphaIsTransparency: 1
@@ -117,190 +117,190 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: owl_0
+      name: apple_0
       rect:
         serializedVersion: 2
         x: 0
         y: 308.6667
         width: 151.33333
         height: 151.33333
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1327170ab5a346c42ae7b808d025f7c1
-      internalID: 533683281
+      spriteID: 76c54318e42422345bc4fd03b77858ef
+      internalID: -1569590769
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: owl_1
+      name: apple_1
       rect:
         serializedVersion: 2
         x: 153
         y: 308.6667
         width: 151.33333
         height: 151.33333
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f2dd75e4cf13aa14c9c911c7b39087eb
-      internalID: 2122113272
+      spriteID: cfef270d1b4f376438a1904423101a6a
+      internalID: 1349522336
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: owl_2
+      name: apple_2
       rect:
         serializedVersion: 2
         x: 306
         y: 308.6667
         width: 151.33333
         height: 151.33333
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b6f36609399634c48b3477dffc8737c2
-      internalID: -342091605
+      spriteID: ec4c62cef8dbb044c8296367c4937ab5
+      internalID: 487199065
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: owl_3
+      name: apple_3
       rect:
         serializedVersion: 2
         x: 0
         y: 155.66667
         width: 151.33333
         height: 151.33333
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f23191638e8b38b4f81deb2ed39899e6
-      internalID: 2039338685
+      spriteID: d7309642a0d4d654cae9e9b3423d8051
+      internalID: 1304132987
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: owl_4
+      name: apple_4
       rect:
         serializedVersion: 2
         x: 153
         y: 155.66667
         width: 151.33333
         height: 151.33333
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 46f759d804e16c148bb764ca7874a154
-      internalID: 2034687051
+      spriteID: 7404708967666324f9182da947ed2c16
+      internalID: -1751505174
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: owl_5
+      name: apple_5
       rect:
         serializedVersion: 2
         x: 306
         y: 155.66667
         width: 151.33333
         height: 151.33333
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f528cc49ee5325a43941a231d28b77b7
-      internalID: 962966319
+      spriteID: 51e36c386cc3c284e966a53bf9d91b14
+      internalID: -1284479250
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: owl_6
+      name: apple_6
       rect:
         serializedVersion: 2
         x: 0
         y: 2.6666718
         width: 151.33333
         height: 151.33333
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a17a4aa20866ef94aba1d2ae87eec469
-      internalID: -922342744
+      spriteID: d6d43e17f59faaa4bb5227da22ba0f92
+      internalID: 146287363
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: owl_7
+      name: apple_7
       rect:
         serializedVersion: 2
         x: 153
         y: 2.6666718
         width: 151.33333
         height: 151.33333
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6482050e353a19e4e8b9e7d6967c967f
-      internalID: -323543006
+      spriteID: 42ae3de5ed089fa43a442edc6e7e1084
+      internalID: 1009706187
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: owl_8
+      name: apple_8
       rect:
         serializedVersion: 2
         x: 306
         y: 2.6666718
         width: 151.33333
         height: 151.33333
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0ae963d9bf5218341a1f6ddb97b4d68a
-      internalID: -654291873
+      spriteID: 70d5b28e2dde8d340a192237fc2943b2
+      internalID: -634921186
       vertices: []
       indices: 
       edges: []
@@ -309,22 +309,22 @@ TextureImporter:
     physicsShape: []
     bones: []
     spriteID: 5e97eb03825dee720800000000000000
-    internalID: 0
+    internalID: 1537655665
     vertices: []
     indices: 
     edges: []
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      owl_8: -654291873
-      owl_2: -342091605
-      owl_0: 533683281
-      owl_5: 962966319
-      owl_4: 2034687051
-      owl_3: 2039338685
-      owl_1: 2122113272
-      owl_7: -323543006
-      owl_6: -922342744
+      apple_5: -1284479250
+      apple_8: -634921186
+      apple_3: 1304132987
+      apple_1: 1349522336
+      apple_0: -1569590769
+      apple_6: 146287363
+      apple_4: -1751505174
+      apple_7: 1009706187
+      apple_2: 487199065
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
