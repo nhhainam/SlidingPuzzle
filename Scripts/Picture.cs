@@ -5,8 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class Picture : MonoBehaviour
 {
-
-    GameManager gameManager;
+    private Controller controller;
     // Start is called before the first frame update
     void Start()
     {
@@ -22,7 +21,7 @@ public class Picture : MonoBehaviour
 
     private void OnMouseDown()
     {
-        gameManager.gameName = gameObject.name;
-        SceneManager.LoadScene("GameScene");
+        Controller.image = gameObject.name;
+        SceneManager.LoadScene("SampleScene");
     }
 }

@@ -1,7 +1,9 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UIElements;
+using Random = UnityEngine.Random;
 
 public class Controller : MonoBehaviour
 {
@@ -10,13 +12,13 @@ public class Controller : MonoBehaviour
     private List<Puzzle> puzzleList = new List<Puzzle>();
     private List<Vector3> puzzlePositions = new List<Vector3>();
     private List<int> randomNumbers = new List<int>();
+    public static string image;
 
-    private Vector2 startPosition = new Vector2(-5.3f, 3.1f);
+    private Vector2 startPosition = new Vector2(-5.3f, 2.5f);
 
-    private Vector2 puzzleSize = new Vector2(2.6f, 2.6f);
+    private Vector2 puzzleSize = new Vector2(1.57f, 1.57f);
 
     public GameObject fullPicture;
-
     public LayerMask collisionMask;
 
     Ray rayUp, rayDown, rayLeft, rayRight; 
@@ -193,32 +195,18 @@ public class Controller : MonoBehaviour
 
     void bindImage()
     {
-        string filePath = "Sprite/Puzzle/owl";
+        string filePath = "Sprite/Puzzle/"+image+"1";
         //string defaultImg = "Sprite/Puzzle/whitebox";
         string spriteName;
         for (int i = 0; i < puzzleList.Count; i++)
         {
-            //if (i == puzzleList.Count)
-            //{
-            //    Sprite sprite = Resources.Load<Sprite>(defaultImg);
-            //    puzzleList[i].GetComponent<SpriteRenderer>().sprite = sprite;
-
-            //}
-            //else
-            //{
-            spriteName = "owl_" + i;
+            spriteName = image+"1_" + i;
             puzzleList[i].GetComponent<SpriteRenderer>().sprite = LoadSprite(filePath, spriteName);
-            //}
-
-
-            //Texture2D tex2D = LoadSprite(filePath, spriteName);
-            //Texture2D texture2D = Resources.Load(filePath, typeof(Texture2D)) as Texture2D;
-            //puzzleList[i].GetComponent<Renderer>().material.mainTexture = tex2D;
-
         }
 
-        Texture2D texture2D_full = Resources.Load(filePath, typeof(Texture2D)) as Texture2D;
-        fullPicture.GetComponent<Renderer>().material.mainTexture = texture2D_full;
+        Texture2D texture2D = Resources.Load(filePath, typeof(Texture2D)) as Texture2D;
+        fullPicture.GetComponent<Renderer>().material.mainTexture = texture2D;
+
 
     }
 

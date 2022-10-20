@@ -134,6 +134,7 @@ GameObject:
   - component: {fileID: 340373147}
   - component: {fileID: 340373146}
   - component: {fileID: 340373145}
+  - component: {fileID: 340373148}
   m_Layer: 0
   m_Name: koala
   m_TagString: Untagged
@@ -194,7 +195,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: 963e38fa410d47f4782dacafa0b1c6fa, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -221,6 +222,18 @@ Transform:
   m_Father: {fileID: 1579071897}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &340373148
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 340373144}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9608f0b5514be804f92b79ab69b98699, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &418492080
 GameObject:
   m_ObjectHideFlags: 0
@@ -400,6 +413,7 @@ GameObject:
   - component: {fileID: 1022483505}
   - component: {fileID: 1022483507}
   - component: {fileID: 1022483506}
+  - component: {fileID: 1022483508}
   m_Layer: 0
   m_Name: goose
   m_TagString: Untagged
@@ -475,7 +489,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: 9c965d7b26bad8e4385e2a5616356505, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -487,6 +501,18 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1022483508
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1022483504}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9608f0b5514be804f92b79ab69b98699, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1202214968
 GameObject:
   m_ObjectHideFlags: 0
@@ -498,6 +524,7 @@ GameObject:
   - component: {fileID: 1202214971}
   - component: {fileID: 1202214970}
   - component: {fileID: 1202214969}
+  - component: {fileID: 1202214972}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -571,6 +598,18 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1202214972
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1202214968}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a510a14a208b37643bfc22e1fbb1828e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1216946079
 GameObject:
   m_ObjectHideFlags: 0
@@ -582,6 +621,7 @@ GameObject:
   - component: {fileID: 1216946080}
   - component: {fileID: 1216946082}
   - component: {fileID: 1216946081}
+  - component: {fileID: 1216946083}
   m_Layer: 0
   m_Name: koala
   m_TagString: Untagged
@@ -657,7 +697,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: f978a58a9176efc4f91444cb2a3fc37d, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -669,6 +709,18 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1216946083
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1216946079}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9608f0b5514be804f92b79ab69b98699, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1579071896
 GameObject:
   m_ObjectHideFlags: 0
@@ -715,6 +767,7 @@ GameObject:
   - component: {fileID: 1942418750}
   - component: {fileID: 1942418749}
   - component: {fileID: 1942418748}
+  - component: {fileID: 1942418751}
   m_Layer: 0
   m_Name: ocean
   m_TagString: Untagged
@@ -775,7 +828,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: f4fc148afa4df4743bfd5cecc84aaa64, type: 3}
   m_Color: {r: 0.6901961, g: 0.6901961, b: 0.6901961, a: 1}
   m_FlipX: 0
@@ -802,3 +855,15 @@ Transform:
   m_Father: {fileID: 1579071897}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1942418751
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1942418747}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9608f0b5514be804f92b79ab69b98699, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
