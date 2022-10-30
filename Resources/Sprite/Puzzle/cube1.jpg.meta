@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 571da9dc51470e6459abcdac2b0d86bc
+guid: dd6b4a96c84895048848353742215b3f
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -117,7 +117,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: elf1_0
+      name: cube1_0
       rect:
         serializedVersion: 2
         x: 0
@@ -131,14 +131,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ff50cb46b7423e24a819a5ff2e2610ea
-      internalID: 867351960
+      spriteID: 4ad4ec1b592cd5444b5e01cc4d529177
+      internalID: -1186204943
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: elf1_1
+      name: cube1_1
       rect:
         serializedVersion: 2
         x: 360
@@ -152,14 +152,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a46b57bfdaeaab449abf94a67ba62f6d
-      internalID: -1305747019
+      spriteID: bcd6558deeed7c24283f849331ec1b41
+      internalID: -1200706448
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: elf1_2
+      name: cube1_2
       rect:
         serializedVersion: 2
         x: 720
@@ -173,14 +173,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2efd76be99c9ea84c8b866a348a97c71
-      internalID: -686093557
+      spriteID: 8506834ddccb37446b332f7734d2dbc4
+      internalID: 498499736
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: elf1_3
+      name: cube1_3
       rect:
         serializedVersion: 2
         x: 0
@@ -194,14 +194,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8b4392ae25af08f49b4123d811b27fe4
-      internalID: 1226376814
+      spriteID: 06a747c2ecd5cb04f8958e6e8bb83073
+      internalID: 1964656701
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: elf1_4
+      name: cube1_4
       rect:
         serializedVersion: 2
         x: 360
@@ -215,14 +215,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7b4e79b54cc30e446828b0d440a9471d
-      internalID: -553855099
+      spriteID: 3792765447a486a4eaf33562fb1b2b77
+      internalID: -1631782678
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: elf1_5
+      name: cube1_5
       rect:
         serializedVersion: 2
         x: 720
@@ -236,14 +236,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ed7fa518a7ba90744812f9a5631af12e
-      internalID: -1625389090
+      spriteID: dfadfc840e7bf774a9c85943edcd90e0
+      internalID: 194342701
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: elf1_6
+      name: cube1_6
       rect:
         serializedVersion: 2
         x: 0
@@ -257,14 +257,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e928b2ceb25bcd44fa896bb8563a3d4e
-      internalID: -1687510453
+      spriteID: f439d8840d530b14b93ba6a949ae077c
+      internalID: -1345931864
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: elf1_7
+      name: cube1_7
       rect:
         serializedVersion: 2
         x: 360
@@ -278,14 +278,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e26e7abb4ff61694389e8f1d50be0480
-      internalID: -1316939296
+      spriteID: faad3952bed0800469a0cf40d8cd7cf9
+      internalID: 373959659
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: elf1_8
+      name: cube1_8
       rect:
         serializedVersion: 2
         x: 720
@@ -299,8 +299,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 494f8d2f9e9ee424895972686b6037e0
-      internalID: 968788587
+      spriteID: dfcb0370b3d50be4d8b5c05d46f62ae7
+      internalID: -476934929
       vertices: []
       indices: 
       edges: []
@@ -316,15 +316,15 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      elf1_1: -1305747019
-      elf1_3: 1226376814
-      elf1_2: -686093557
-      elf1_7: -1316939296
-      elf1_4: -553855099
-      elf1_0: 867351960
-      elf1_8: 968788587
-      elf1_5: -1625389090
-      elf1_6: -1687510453
+      cube1_0: -1186204943
+      cube1_8: -476934929
+      cube1_1: -1200706448
+      cube1_6: -1345931864
+      cube1_3: 1964656701
+      cube1_7: 373959659
+      cube1_5: 194342701
+      cube1_4: -1631782678
+      cube1_2: 498499736
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

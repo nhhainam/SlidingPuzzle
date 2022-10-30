@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 571da9dc51470e6459abcdac2b0d86bc
+guid: 6f57a14bc124c2d4e89bdb26a7816f52
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -117,7 +117,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: elf1_0
+      name: station1_0
       rect:
         serializedVersion: 2
         x: 0
@@ -131,14 +131,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ff50cb46b7423e24a819a5ff2e2610ea
-      internalID: 867351960
+      spriteID: e784c06de4948fe4ca61f335b19edb9f
+      internalID: 332463439
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: elf1_1
+      name: station1_1
       rect:
         serializedVersion: 2
         x: 360
@@ -152,14 +152,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a46b57bfdaeaab449abf94a67ba62f6d
-      internalID: -1305747019
+      spriteID: 9fc95b6a409cb4648986c4b088d7a015
+      internalID: 1799740217
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: elf1_2
+      name: station1_2
       rect:
         serializedVersion: 2
         x: 720
@@ -173,14 +173,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2efd76be99c9ea84c8b866a348a97c71
-      internalID: -686093557
+      spriteID: 0cc820f3a765fd240afefde56c7fd45c
+      internalID: 1911073388
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: elf1_3
+      name: station1_3
       rect:
         serializedVersion: 2
         x: 0
@@ -194,14 +194,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8b4392ae25af08f49b4123d811b27fe4
-      internalID: 1226376814
+      spriteID: 2c26d5b9017c1e049a7bdc329e6953bc
+      internalID: -1525686394
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: elf1_4
+      name: station1_4
       rect:
         serializedVersion: 2
         x: 360
@@ -215,14 +215,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7b4e79b54cc30e446828b0d440a9471d
-      internalID: -553855099
+      spriteID: 61b1ff6534e21e94a834eb2483358ee6
+      internalID: 303224495
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: elf1_5
+      name: station1_5
       rect:
         serializedVersion: 2
         x: 720
@@ -236,14 +236,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ed7fa518a7ba90744812f9a5631af12e
-      internalID: -1625389090
+      spriteID: f66b2725e1f2af84ab63ce3a796c6de9
+      internalID: 1365134800
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: elf1_6
+      name: station1_6
       rect:
         serializedVersion: 2
         x: 0
@@ -257,14 +257,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e928b2ceb25bcd44fa896bb8563a3d4e
-      internalID: -1687510453
+      spriteID: da3a735334fa7a34a8f9183b54006d65
+      internalID: 1971060781
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: elf1_7
+      name: station1_7
       rect:
         serializedVersion: 2
         x: 360
@@ -278,14 +278,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e26e7abb4ff61694389e8f1d50be0480
-      internalID: -1316939296
+      spriteID: e9ee5e117eac6e44087a00d5f71d51bd
+      internalID: 1318751862
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: elf1_8
+      name: station1_8
       rect:
         serializedVersion: 2
         x: 720
@@ -299,8 +299,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 494f8d2f9e9ee424895972686b6037e0
-      internalID: 968788587
+      spriteID: 1ff7a79143b648f45aa8b28d3871686e
+      internalID: 489613331
       vertices: []
       indices: 
       edges: []
@@ -316,15 +316,15 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      elf1_1: -1305747019
-      elf1_3: 1226376814
-      elf1_2: -686093557
-      elf1_7: -1316939296
-      elf1_4: -553855099
-      elf1_0: 867351960
-      elf1_8: 968788587
-      elf1_5: -1625389090
-      elf1_6: -1687510453
+      station1_5: 1365134800
+      station1_3: -1525686394
+      station1_7: 1318751862
+      station1_2: 1911073388
+      station1_1: 1799740217
+      station1_8: 489613331
+      station1_6: 1971060781
+      station1_4: 303224495
+      station1_0: 332463439
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

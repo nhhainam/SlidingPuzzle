@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 7b6816692e00ef7469baf4a4d82fdc2b
+guid: c0fdc694062277c45a3ce4a5e1a2b251
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -117,13 +117,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: freddy3_0
+      name: cube2_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 865
-        width: 215
-        height: 215
+        y: 811
+        width: 269
+        height: 269
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -131,20 +131,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9ba6ad0ace71e5b4e8b3ce0bea95dbad
-      internalID: -528401391
+      spriteID: 626030123394b454ba3b916c91a8445f
+      internalID: -1717149197
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: freddy3_1
+      name: cube2_1
       rect:
         serializedVersion: 2
-        x: 216
-        y: 865
-        width: 215
-        height: 215
+        x: 270
+        y: 811
+        width: 269
+        height: 269
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -152,20 +152,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1991eeea3520d5d4b9b415eda4127368
-      internalID: 1338759427
+      spriteID: b0ee6bef4b5004e4799488e8c4bfdf2b
+      internalID: -1995509756
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: freddy3_2
+      name: cube2_2
       rect:
         serializedVersion: 2
-        x: 432
-        y: 865
-        width: 215
-        height: 215
+        x: 540
+        y: 811
+        width: 269
+        height: 269
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -173,20 +173,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: badd7cec2bcc210429f2287df03ee8a3
-      internalID: 1320933728
+      spriteID: 5d71818dad9c18e489f54986badd4d97
+      internalID: -2123795968
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: freddy3_3
+      name: cube2_3
       rect:
         serializedVersion: 2
-        x: 648
-        y: 865
-        width: 215
-        height: 215
+        x: 810
+        y: 811
+        width: 269
+        height: 269
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -194,41 +194,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fc4c80b0636789e43895614d43d515c9
-      internalID: 1338878270
+      spriteID: f9b70c3e3de8b5543a7ae5e2f3d970f8
+      internalID: -1230046152
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: freddy3_4
-      rect:
-        serializedVersion: 2
-        x: 864
-        y: 865
-        width: 215
-        height: 215
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 59476fd5a988bfd4e9ca1a325ff3f3e3
-      internalID: -426296408
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: freddy3_5
+      name: cube2_4
       rect:
         serializedVersion: 2
         x: 0
-        y: 649
-        width: 215
-        height: 215
+        y: 541
+        width: 269
+        height: 269
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -236,20 +215,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 14bfa37321fdd2d42b6eadd5dd9769cb
-      internalID: -28638032
+      spriteID: 19673c9edcdffab4f9d18384e028f729
+      internalID: -2104863091
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: freddy3_6
+      name: cube2_5
       rect:
         serializedVersion: 2
-        x: 216
-        y: 649
-        width: 215
-        height: 215
+        x: 270
+        y: 541
+        width: 269
+        height: 269
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -257,20 +236,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7dbeb561cffd86c47b4600f08e24dff2
-      internalID: 529186820
+      spriteID: 43e5d216c08dcc745a10c36df13deb95
+      internalID: -1793796138
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: freddy3_7
+      name: cube2_6
       rect:
         serializedVersion: 2
-        x: 432
-        y: 649
-        width: 215
-        height: 215
+        x: 540
+        y: 541
+        width: 269
+        height: 269
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -278,20 +257,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4c06f0655bb5649418fba6aeb43e8bc9
-      internalID: -2035301481
+      spriteID: f925df9117a5bfc43abe94089eea8762
+      internalID: -2134531732
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: freddy3_8
+      name: cube2_7
       rect:
         serializedVersion: 2
-        x: 648
-        y: 649
-        width: 215
-        height: 215
+        x: 810
+        y: 541
+        width: 269
+        height: 269
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -299,41 +278,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ece2d4cb559baf649bac5933196824d8
-      internalID: 355362679
+      spriteID: ca799a9234b08414fb8dc47d3b0cc480
+      internalID: 1508495855
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: freddy3_9
-      rect:
-        serializedVersion: 2
-        x: 864
-        y: 649
-        width: 215
-        height: 215
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 004055d568c8a724caaae82df83866fe
-      internalID: 2018952053
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: freddy3_10
+      name: cube2_8
       rect:
         serializedVersion: 2
         x: 0
-        y: 433
-        width: 215
-        height: 215
+        y: 271
+        width: 269
+        height: 269
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -341,20 +299,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 37d9453491d61114da05dd7ebe11789d
-      internalID: 467663604
+      spriteID: ca84eb86da3311b448992e7a6f85473c
+      internalID: -1098862989
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: freddy3_11
+      name: cube2_9
       rect:
         serializedVersion: 2
-        x: 216
-        y: 433
-        width: 215
-        height: 215
+        x: 270
+        y: 271
+        width: 269
+        height: 269
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -362,20 +320,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1d07ce8ccf1783a4196f0e66fdcf766a
-      internalID: -2142481517
+      spriteID: 2e348be1b01a21645a47e1f695aa9587
+      internalID: 1743297761
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: freddy3_12
+      name: cube2_10
       rect:
         serializedVersion: 2
-        x: 432
-        y: 433
-        width: 215
-        height: 215
+        x: 540
+        y: 271
+        width: 269
+        height: 269
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -383,20 +341,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fbff4a4c32d576945b8cdd74c1dcd000
-      internalID: 690323389
+      spriteID: dc1b56edd1d015648b349c4e79a68614
+      internalID: 1836960187
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: freddy3_13
+      name: cube2_11
       rect:
         serializedVersion: 2
-        x: 648
-        y: 433
-        width: 215
-        height: 215
+        x: 810
+        y: 271
+        width: 269
+        height: 269
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -404,146 +362,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: aee0a77c1e9bd644998308bd6d66b088
-      internalID: -797443088
+      spriteID: dbca8e918d2ece041bf6befacd36dea4
+      internalID: 1211169808
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: freddy3_14
-      rect:
-        serializedVersion: 2
-        x: 864
-        y: 433
-        width: 215
-        height: 215
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 145c6634f31d1784081fca8e0ec1237e
-      internalID: 1066534818
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: freddy3_15
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 217
-        width: 215
-        height: 215
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 940c5c902aebffa46849736cff6f0b56
-      internalID: -2024110154
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: freddy3_16
-      rect:
-        serializedVersion: 2
-        x: 216
-        y: 217
-        width: 215
-        height: 215
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 235ee3891c9b0994191a888e59f20e34
-      internalID: 1014403539
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: freddy3_17
-      rect:
-        serializedVersion: 2
-        x: 432
-        y: 217
-        width: 215
-        height: 215
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e8f73a697b104e34cb9a873575b33100
-      internalID: 705168938
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: freddy3_18
-      rect:
-        serializedVersion: 2
-        x: 648
-        y: 217
-        width: 215
-        height: 215
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f96a4e7a7edd6c545b11f3de987f29d9
-      internalID: 204866836
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: freddy3_19
-      rect:
-        serializedVersion: 2
-        x: 864
-        y: 217
-        width: 215
-        height: 215
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6ad5f88cda3d9304a9039869b186f33a
-      internalID: -101288126
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: freddy3_20
+      name: cube2_12
       rect:
         serializedVersion: 2
         x: 0
         y: 1
-        width: 215
-        height: 215
+        width: 269
+        height: 269
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -551,20 +383,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 41b4e25e63680f24fb38cf26d263133c
-      internalID: -697842148
+      spriteID: d6e7132bf6da866468c9c86b4d4026a8
+      internalID: -717980580
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: freddy3_21
+      name: cube2_13
       rect:
         serializedVersion: 2
-        x: 216
+        x: 270
         y: 1
-        width: 215
-        height: 215
+        width: 269
+        height: 269
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -572,20 +404,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: edca2d0d57fa4024d95df90a0ced1724
-      internalID: 972680130
+      spriteID: ffef3a62892e52147bfe58940fc5cc96
+      internalID: -1576585720
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: freddy3_22
+      name: cube2_14
       rect:
         serializedVersion: 2
-        x: 432
+        x: 540
         y: 1
-        width: 215
-        height: 215
+        width: 269
+        height: 269
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -593,20 +425,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0a6bf8acd77514148a17be2e40667495
-      internalID: -1561027879
+      spriteID: 3da6210f70e8a8944845b7723a09bb53
+      internalID: 1175177159
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: freddy3_23
+      name: cube2_15
       rect:
         serializedVersion: 2
-        x: 648
+        x: 810
         y: 1
-        width: 215
-        height: 215
+        width: 269
+        height: 269
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -614,29 +446,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5264a895a6e1e9a48a51b35c20b2e44e
-      internalID: -1450900743
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: freddy3_24
-      rect:
-        serializedVersion: 2
-        x: 864
-        y: 1
-        width: 215
-        height: 215
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 69bf27a66a329f049abab540a48f7208
-      internalID: -648797065
+      spriteID: 31952cfafef6a7a419e36e8720fc4c60
+      internalID: -82284905
       vertices: []
       indices: 
       edges: []
@@ -652,31 +463,22 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      freddy3_11: -2142481517
-      freddy3_13: -797443088
-      freddy3_16: 1014403539
-      freddy3_21: 972680130
-      freddy3_2: 1320933728
-      freddy3_18: 204866836
-      freddy3_0: -528401391
-      freddy3_5: -28638032
-      freddy3_24: -648797065
-      freddy3_12: 690323389
-      freddy3_23: -1450900743
-      freddy3_4: -426296408
-      freddy3_10: 467663604
-      freddy3_1: 1338759427
-      freddy3_7: -2035301481
-      freddy3_19: -101288126
-      freddy3_22: -1561027879
-      freddy3_17: 705168938
-      freddy3_3: 1338878270
-      freddy3_8: 355362679
-      freddy3_6: 529186820
-      freddy3_9: 2018952053
-      freddy3_14: 1066534818
-      freddy3_20: -697842148
-      freddy3_15: -2024110154
+      cube2_10: 1836960187
+      cube2_2: -2123795968
+      cube2_6: -2134531732
+      cube2_12: -717980580
+      cube2_8: -1098862989
+      cube2_1: -1995509756
+      cube2_0: -1717149197
+      cube2_3: -1230046152
+      cube2_4: -2104863091
+      cube2_9: 1743297761
+      cube2_15: -82284905
+      cube2_5: -1793796138
+      cube2_14: 1175177159
+      cube2_7: 1508495855
+      cube2_11: 1211169808
+      cube2_13: -1576585720
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 7b6816692e00ef7469baf4a4d82fdc2b
+guid: 87e4105af86fe244192e9a8b8f029e89
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -117,7 +117,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: freddy3_0
+      name: combat3_0
       rect:
         serializedVersion: 2
         x: 0
@@ -131,14 +131,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9ba6ad0ace71e5b4e8b3ce0bea95dbad
-      internalID: -528401391
+      spriteID: 5fe2e2a52a4aabd449d4847fcdd35a01
+      internalID: 1809186715
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: freddy3_1
+      name: combat3_1
       rect:
         serializedVersion: 2
         x: 216
@@ -152,14 +152,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1991eeea3520d5d4b9b415eda4127368
-      internalID: 1338759427
+      spriteID: 2f3497ab21711ce448ef03f7f3e545bd
+      internalID: -192334861
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: freddy3_2
+      name: combat3_2
       rect:
         serializedVersion: 2
         x: 432
@@ -173,14 +173,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: badd7cec2bcc210429f2287df03ee8a3
-      internalID: 1320933728
+      spriteID: 136acf4edbb058e4f94d0cdd9939f722
+      internalID: -1894535862
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: freddy3_3
+      name: combat3_3
       rect:
         serializedVersion: 2
         x: 648
@@ -194,14 +194,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fc4c80b0636789e43895614d43d515c9
-      internalID: 1338878270
+      spriteID: 087382b619416a249b1b770f6ad59372
+      internalID: 945069618
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: freddy3_4
+      name: combat3_4
       rect:
         serializedVersion: 2
         x: 864
@@ -215,14 +215,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 59476fd5a988bfd4e9ca1a325ff3f3e3
-      internalID: -426296408
+      spriteID: b1bd7f4697bb287418587a11e1025e5c
+      internalID: -241890371
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: freddy3_5
+      name: combat3_5
       rect:
         serializedVersion: 2
         x: 0
@@ -236,14 +236,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 14bfa37321fdd2d42b6eadd5dd9769cb
-      internalID: -28638032
+      spriteID: f1864b695cdb8634e96bdd1c37e3dec7
+      internalID: -1194939597
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: freddy3_6
+      name: combat3_6
       rect:
         serializedVersion: 2
         x: 216
@@ -257,14 +257,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7dbeb561cffd86c47b4600f08e24dff2
-      internalID: 529186820
+      spriteID: e41117c444c6a634fbd289d969f3551e
+      internalID: 1706877735
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: freddy3_7
+      name: combat3_7
       rect:
         serializedVersion: 2
         x: 432
@@ -278,14 +278,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4c06f0655bb5649418fba6aeb43e8bc9
-      internalID: -2035301481
+      spriteID: d36b007f7ee82884ba4c269aad2c0976
+      internalID: -9252813
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: freddy3_8
+      name: combat3_8
       rect:
         serializedVersion: 2
         x: 648
@@ -299,14 +299,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ece2d4cb559baf649bac5933196824d8
-      internalID: 355362679
+      spriteID: d002510766714cf43a27a8b4245aa12d
+      internalID: -611914270
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: freddy3_9
+      name: combat3_9
       rect:
         serializedVersion: 2
         x: 864
@@ -320,14 +320,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 004055d568c8a724caaae82df83866fe
-      internalID: 2018952053
+      spriteID: 3ecd57e88f1559f4da5bfe415d09c90a
+      internalID: -1055095405
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: freddy3_10
+      name: combat3_10
       rect:
         serializedVersion: 2
         x: 0
@@ -341,14 +341,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 37d9453491d61114da05dd7ebe11789d
-      internalID: 467663604
+      spriteID: 11cc723ffed173b4ab0ab906fef0a9c7
+      internalID: 705943583
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: freddy3_11
+      name: combat3_11
       rect:
         serializedVersion: 2
         x: 216
@@ -362,14 +362,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1d07ce8ccf1783a4196f0e66fdcf766a
-      internalID: -2142481517
+      spriteID: 97a4bfc3d0d81be43a195f39f8c670f1
+      internalID: 861032224
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: freddy3_12
+      name: combat3_12
       rect:
         serializedVersion: 2
         x: 432
@@ -383,14 +383,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fbff4a4c32d576945b8cdd74c1dcd000
-      internalID: 690323389
+      spriteID: e2ac10d5824d3084fafeb3294c8d3e64
+      internalID: 1721988721
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: freddy3_13
+      name: combat3_13
       rect:
         serializedVersion: 2
         x: 648
@@ -404,14 +404,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: aee0a77c1e9bd644998308bd6d66b088
-      internalID: -797443088
+      spriteID: a78e0d89093b5f14d90ca3e3afa40180
+      internalID: -825758463
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: freddy3_14
+      name: combat3_14
       rect:
         serializedVersion: 2
         x: 864
@@ -425,14 +425,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 145c6634f31d1784081fca8e0ec1237e
-      internalID: 1066534818
+      spriteID: d0d5d607459ead145adf9aef05918594
+      internalID: 145985820
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: freddy3_15
+      name: combat3_15
       rect:
         serializedVersion: 2
         x: 0
@@ -446,14 +446,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 940c5c902aebffa46849736cff6f0b56
-      internalID: -2024110154
+      spriteID: f35bfd40ba8994e45aaee8ff472dbe05
+      internalID: 1548226061
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: freddy3_16
+      name: combat3_16
       rect:
         serializedVersion: 2
         x: 216
@@ -467,14 +467,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 235ee3891c9b0994191a888e59f20e34
-      internalID: 1014403539
+      spriteID: cc7c156adb16157438b5793cf7d182f2
+      internalID: 206891753
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: freddy3_17
+      name: combat3_17
       rect:
         serializedVersion: 2
         x: 432
@@ -488,14 +488,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e8f73a697b104e34cb9a873575b33100
-      internalID: 705168938
+      spriteID: 8c9d6ad9bc7ed0a4bbb194f8ceefc5c9
+      internalID: -788058016
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: freddy3_18
+      name: combat3_18
       rect:
         serializedVersion: 2
         x: 648
@@ -509,14 +509,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f96a4e7a7edd6c545b11f3de987f29d9
-      internalID: 204866836
+      spriteID: 181bcc2a3e65d6444ad683ccf33b4b28
+      internalID: 1551623733
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: freddy3_19
+      name: combat3_19
       rect:
         serializedVersion: 2
         x: 864
@@ -530,14 +530,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6ad5f88cda3d9304a9039869b186f33a
-      internalID: -101288126
+      spriteID: 9c5439780b5bca448b83ced174f54a8e
+      internalID: -1384842014
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: freddy3_20
+      name: combat3_20
       rect:
         serializedVersion: 2
         x: 0
@@ -551,14 +551,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 41b4e25e63680f24fb38cf26d263133c
-      internalID: -697842148
+      spriteID: 38c58d4448f0e234db3350565bc12866
+      internalID: 923542663
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: freddy3_21
+      name: combat3_21
       rect:
         serializedVersion: 2
         x: 216
@@ -572,14 +572,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: edca2d0d57fa4024d95df90a0ced1724
-      internalID: 972680130
+      spriteID: 6c09d770a22a1fb469f333f36ea0594a
+      internalID: -1765765188
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: freddy3_22
+      name: combat3_22
       rect:
         serializedVersion: 2
         x: 432
@@ -593,14 +593,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0a6bf8acd77514148a17be2e40667495
-      internalID: -1561027879
+      spriteID: f88604e9ecf8717498533444584d570f
+      internalID: 817810341
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: freddy3_23
+      name: combat3_23
       rect:
         serializedVersion: 2
         x: 648
@@ -614,14 +614,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5264a895a6e1e9a48a51b35c20b2e44e
-      internalID: -1450900743
+      spriteID: 3b988424b0c60794b89b0192b1f21608
+      internalID: 102802080
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: freddy3_24
+      name: combat3_24
       rect:
         serializedVersion: 2
         x: 864
@@ -635,8 +635,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 69bf27a66a329f049abab540a48f7208
-      internalID: -648797065
+      spriteID: 72a28b2f5ee2abf4d98741024b3c242c
+      internalID: 637954795
       vertices: []
       indices: 
       edges: []
@@ -652,31 +652,31 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      freddy3_11: -2142481517
-      freddy3_13: -797443088
-      freddy3_16: 1014403539
-      freddy3_21: 972680130
-      freddy3_2: 1320933728
-      freddy3_18: 204866836
-      freddy3_0: -528401391
-      freddy3_5: -28638032
-      freddy3_24: -648797065
-      freddy3_12: 690323389
-      freddy3_23: -1450900743
-      freddy3_4: -426296408
-      freddy3_10: 467663604
-      freddy3_1: 1338759427
-      freddy3_7: -2035301481
-      freddy3_19: -101288126
-      freddy3_22: -1561027879
-      freddy3_17: 705168938
-      freddy3_3: 1338878270
-      freddy3_8: 355362679
-      freddy3_6: 529186820
-      freddy3_9: 2018952053
-      freddy3_14: 1066534818
-      freddy3_20: -697842148
-      freddy3_15: -2024110154
+      combat3_11: 861032224
+      combat3_13: -825758463
+      combat3_14: 145985820
+      combat3_16: 206891753
+      combat3_23: 102802080
+      combat3_0: 1809186715
+      combat3_7: -9252813
+      combat3_4: -241890371
+      combat3_18: 1551623733
+      combat3_20: 923542663
+      combat3_15: 1548226061
+      combat3_8: -611914270
+      combat3_24: 637954795
+      combat3_10: 705943583
+      combat3_22: 817810341
+      combat3_2: -1894535862
+      combat3_19: -1384842014
+      combat3_3: 945069618
+      combat3_5: -1194939597
+      combat3_17: -788058016
+      combat3_9: -1055095405
+      combat3_12: 1721988721
+      combat3_21: -1765765188
+      combat3_6: 1706877735
+      combat3_1: -192334861
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

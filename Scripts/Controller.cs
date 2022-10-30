@@ -2,6 +2,8 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 using UnityEngine.UIElements;
 using Random = UnityEngine.Random;
 
@@ -15,9 +17,9 @@ public class Controller : MonoBehaviour
     public static string image;
     public static string level;
 
-    private Vector2 startPosition = new Vector2(-5.3f, 2.5f);
+    private Vector2 startPosition;
 
-    private Vector2 puzzleSize = new Vector2(1.57f, 1.57f);
+    private Vector2 puzzleSize;
 
     public GameObject fullPicture;
     public LayerMask collisionMask;
@@ -33,10 +35,37 @@ public class Controller : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        SpawnPuzzle(3,3);
-        SetStartPosition(3,3);
-        bindImage();
-        ShufflePuzzle();
+
+        switch (level)
+        {
+            case "1":
+                startPosition = new Vector2(-5.3f, 2.2f);
+                puzzleSize = new Vector2(2.19f, 2.19f);
+                SpawnPuzzle(3, 3);
+                SetStartPosition(3, 3);
+                bindImage();
+                ShufflePuzzle();
+                break;
+            case "2":
+                startPosition = new Vector2(-6.3f, 2.5f);
+                puzzleSize = new Vector2(1.65f, 1.65f);
+                SpawnPuzzle(4, 4);
+                SetStartPosition(4, 4);
+                bindImage();
+                ShufflePuzzle();
+                break;
+            case "3":
+                startPosition = new Vector2(-6.3f, 2.6f);
+                puzzleSize = new Vector2(1.35f, 1.35f);
+                SpawnPuzzle(5, 5);
+                SetStartPosition(5, 5);
+                bindImage();
+                ShufflePuzzle();
+                break;
+            default:
+                // code block
+                break;
+        }
     }
 
     // Update is called once per frame
@@ -196,7 +225,7 @@ public class Controller : MonoBehaviour
 
     void bindImage()
     {
-        string filePath = "Sprite/Puzzle/" + image;
+        string filePath = "Sprite/Puzzle/" + image + level;
         //string defaultImg = "Sprite/Puzzle/whitebox";
         string spriteName;
         for (int i = 0; i < puzzleList.Count; i++)

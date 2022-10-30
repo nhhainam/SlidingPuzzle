@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 7b6816692e00ef7469baf4a4d82fdc2b
+guid: 68231753b2575d34ebfa460279dfc298
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -117,7 +117,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: freddy3_0
+      name: stone3_0
       rect:
         serializedVersion: 2
         x: 0
@@ -131,14 +131,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9ba6ad0ace71e5b4e8b3ce0bea95dbad
-      internalID: -528401391
+      spriteID: 4984d3c5e039dd940a6cbd14f6792a34
+      internalID: 106256981
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: freddy3_1
+      name: stone3_1
       rect:
         serializedVersion: 2
         x: 216
@@ -152,14 +152,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1991eeea3520d5d4b9b415eda4127368
-      internalID: 1338759427
+      spriteID: 3e8995dfda994b64b8c2833e98f63db9
+      internalID: 1856600092
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: freddy3_2
+      name: stone3_2
       rect:
         serializedVersion: 2
         x: 432
@@ -173,14 +173,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: badd7cec2bcc210429f2287df03ee8a3
-      internalID: 1320933728
+      spriteID: 1e3e3be0bf3968541898867ee6337558
+      internalID: -569792771
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: freddy3_3
+      name: stone3_3
       rect:
         serializedVersion: 2
         x: 648
@@ -194,14 +194,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fc4c80b0636789e43895614d43d515c9
-      internalID: 1338878270
+      spriteID: 72e124b0868a7534b872abef3bac62d2
+      internalID: -1051446145
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: freddy3_4
+      name: stone3_4
       rect:
         serializedVersion: 2
         x: 864
@@ -215,14 +215,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 59476fd5a988bfd4e9ca1a325ff3f3e3
-      internalID: -426296408
+      spriteID: 76bfb56525d72784fb10aaa2e22b6276
+      internalID: -563227188
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: freddy3_5
+      name: stone3_5
       rect:
         serializedVersion: 2
         x: 0
@@ -236,14 +236,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 14bfa37321fdd2d42b6eadd5dd9769cb
-      internalID: -28638032
+      spriteID: 75d0b0552b210c540b824c43610b08dc
+      internalID: 2099255207
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: freddy3_6
+      name: stone3_6
       rect:
         serializedVersion: 2
         x: 216
@@ -257,14 +257,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7dbeb561cffd86c47b4600f08e24dff2
-      internalID: 529186820
+      spriteID: d928a6ccb10a7cb409275f0f4c33481a
+      internalID: 148422054
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: freddy3_7
+      name: stone3_7
       rect:
         serializedVersion: 2
         x: 432
@@ -278,14 +278,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4c06f0655bb5649418fba6aeb43e8bc9
-      internalID: -2035301481
+      spriteID: a7efe396c23d19f4b925159390e5e1af
+      internalID: 1064703728
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: freddy3_8
+      name: stone3_8
       rect:
         serializedVersion: 2
         x: 648
@@ -299,14 +299,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ece2d4cb559baf649bac5933196824d8
-      internalID: 355362679
+      spriteID: ee118a7b263114a4c977066c7337f75f
+      internalID: -1244075473
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: freddy3_9
+      name: stone3_9
       rect:
         serializedVersion: 2
         x: 864
@@ -320,14 +320,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 004055d568c8a724caaae82df83866fe
-      internalID: 2018952053
+      spriteID: 66b56c52bda7f914eb452bd88ab584e7
+      internalID: -568946901
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: freddy3_10
+      name: stone3_10
       rect:
         serializedVersion: 2
         x: 0
@@ -341,14 +341,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 37d9453491d61114da05dd7ebe11789d
-      internalID: 467663604
+      spriteID: 527d24246b079ce428d929013ddc4590
+      internalID: 519063686
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: freddy3_11
+      name: stone3_11
       rect:
         serializedVersion: 2
         x: 216
@@ -362,14 +362,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1d07ce8ccf1783a4196f0e66fdcf766a
-      internalID: -2142481517
+      spriteID: 2e9a1e723b1f5324084a129da77f2c27
+      internalID: -1112460213
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: freddy3_12
+      name: stone3_12
       rect:
         serializedVersion: 2
         x: 432
@@ -383,14 +383,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fbff4a4c32d576945b8cdd74c1dcd000
-      internalID: 690323389
+      spriteID: 7910dce679497d74c8f905d456a69d03
+      internalID: -228009115
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: freddy3_13
+      name: stone3_13
       rect:
         serializedVersion: 2
         x: 648
@@ -404,14 +404,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: aee0a77c1e9bd644998308bd6d66b088
-      internalID: -797443088
+      spriteID: 81742da34cb1d1d4ca8b467eae3220b9
+      internalID: -740381174
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: freddy3_14
+      name: stone3_14
       rect:
         serializedVersion: 2
         x: 864
@@ -425,14 +425,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 145c6634f31d1784081fca8e0ec1237e
-      internalID: 1066534818
+      spriteID: 48197c60d885a2d4995a427e15fade8e
+      internalID: -1129326179
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: freddy3_15
+      name: stone3_15
       rect:
         serializedVersion: 2
         x: 0
@@ -446,14 +446,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 940c5c902aebffa46849736cff6f0b56
-      internalID: -2024110154
+      spriteID: 86e3dc427a9d9a348938c4f0a9a10baa
+      internalID: -1869217563
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: freddy3_16
+      name: stone3_16
       rect:
         serializedVersion: 2
         x: 216
@@ -467,14 +467,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 235ee3891c9b0994191a888e59f20e34
-      internalID: 1014403539
+      spriteID: fd1a261ae9b77de43b51530d053bb9ee
+      internalID: 456843330
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: freddy3_17
+      name: stone3_17
       rect:
         serializedVersion: 2
         x: 432
@@ -488,14 +488,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e8f73a697b104e34cb9a873575b33100
-      internalID: 705168938
+      spriteID: 0b72ee39c8219fa4a89fed5b235c2bf1
+      internalID: 449788476
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: freddy3_18
+      name: stone3_18
       rect:
         serializedVersion: 2
         x: 648
@@ -509,14 +509,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f96a4e7a7edd6c545b11f3de987f29d9
-      internalID: 204866836
+      spriteID: c4dcdc6c974767847ad921fec4babeab
+      internalID: -421047358
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: freddy3_19
+      name: stone3_19
       rect:
         serializedVersion: 2
         x: 864
@@ -530,14 +530,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6ad5f88cda3d9304a9039869b186f33a
-      internalID: -101288126
+      spriteID: 390ede457d764ce4f9eaed1df19f83c2
+      internalID: -349148756
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: freddy3_20
+      name: stone3_20
       rect:
         serializedVersion: 2
         x: 0
@@ -551,14 +551,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 41b4e25e63680f24fb38cf26d263133c
-      internalID: -697842148
+      spriteID: 9dd4099253f7c834fabf070dce9e118a
+      internalID: 1498045887
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: freddy3_21
+      name: stone3_21
       rect:
         serializedVersion: 2
         x: 216
@@ -572,14 +572,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: edca2d0d57fa4024d95df90a0ced1724
-      internalID: 972680130
+      spriteID: 944456e84a29ff74f97aa49ee38fe577
+      internalID: -960349596
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: freddy3_22
+      name: stone3_22
       rect:
         serializedVersion: 2
         x: 432
@@ -593,14 +593,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0a6bf8acd77514148a17be2e40667495
-      internalID: -1561027879
+      spriteID: 181116137ff7d504b8e0537d3229ad9e
+      internalID: 591635782
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: freddy3_23
+      name: stone3_23
       rect:
         serializedVersion: 2
         x: 648
@@ -614,14 +614,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5264a895a6e1e9a48a51b35c20b2e44e
-      internalID: -1450900743
+      spriteID: c17f2b82a1c1d154fae96abbcbf65fec
+      internalID: -1996397535
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: freddy3_24
+      name: stone3_24
       rect:
         serializedVersion: 2
         x: 864
@@ -635,8 +635,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 69bf27a66a329f049abab540a48f7208
-      internalID: -648797065
+      spriteID: 6a3d411b7a1f8a442acf85edc263901c
+      internalID: -1953118841
       vertices: []
       indices: 
       edges: []
@@ -652,31 +652,31 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      freddy3_11: -2142481517
-      freddy3_13: -797443088
-      freddy3_16: 1014403539
-      freddy3_21: 972680130
-      freddy3_2: 1320933728
-      freddy3_18: 204866836
-      freddy3_0: -528401391
-      freddy3_5: -28638032
-      freddy3_24: -648797065
-      freddy3_12: 690323389
-      freddy3_23: -1450900743
-      freddy3_4: -426296408
-      freddy3_10: 467663604
-      freddy3_1: 1338759427
-      freddy3_7: -2035301481
-      freddy3_19: -101288126
-      freddy3_22: -1561027879
-      freddy3_17: 705168938
-      freddy3_3: 1338878270
-      freddy3_8: 355362679
-      freddy3_6: 529186820
-      freddy3_9: 2018952053
-      freddy3_14: 1066534818
-      freddy3_20: -697842148
-      freddy3_15: -2024110154
+      stone3_9: -568946901
+      stone3_22: 591635782
+      stone3_11: -1112460213
+      stone3_10: 519063686
+      stone3_2: -569792771
+      stone3_7: 1064703728
+      stone3_1: 1856600092
+      stone3_14: -1129326179
+      stone3_8: -1244075473
+      stone3_12: -228009115
+      stone3_21: -960349596
+      stone3_24: -1953118841
+      stone3_18: -421047358
+      stone3_23: -1996397535
+      stone3_19: -349148756
+      stone3_15: -1869217563
+      stone3_6: 148422054
+      stone3_17: 449788476
+      stone3_20: 1498045887
+      stone3_3: -1051446145
+      stone3_13: -740381174
+      stone3_5: 2099255207
+      stone3_4: -563227188
+      stone3_0: 106256981
+      stone3_16: 456843330
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

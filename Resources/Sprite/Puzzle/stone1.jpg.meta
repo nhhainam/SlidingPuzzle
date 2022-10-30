@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 571da9dc51470e6459abcdac2b0d86bc
+guid: 0892f98b5dc5a41469bea8db432cc6aa
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -117,7 +117,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: elf1_0
+      name: stone1_0
       rect:
         serializedVersion: 2
         x: 0
@@ -131,14 +131,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ff50cb46b7423e24a819a5ff2e2610ea
-      internalID: 867351960
+      spriteID: b602975f8a1800d478415d58d26dc7c4
+      internalID: 1406220737
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: elf1_1
+      name: stone1_1
       rect:
         serializedVersion: 2
         x: 360
@@ -152,14 +152,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a46b57bfdaeaab449abf94a67ba62f6d
-      internalID: -1305747019
+      spriteID: 9426a46cc9a05624b8e6bc7866b1e23d
+      internalID: 1830090080
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: elf1_2
+      name: stone1_2
       rect:
         serializedVersion: 2
         x: 720
@@ -173,14 +173,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2efd76be99c9ea84c8b866a348a97c71
-      internalID: -686093557
+      spriteID: ad6a0de22acb264498d1a5e2dabc39b5
+      internalID: -351845624
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: elf1_3
+      name: stone1_3
       rect:
         serializedVersion: 2
         x: 0
@@ -194,14 +194,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8b4392ae25af08f49b4123d811b27fe4
-      internalID: 1226376814
+      spriteID: f085b750c46e27040a25625397c493d7
+      internalID: -2061481346
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: elf1_4
+      name: stone1_4
       rect:
         serializedVersion: 2
         x: 360
@@ -215,14 +215,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7b4e79b54cc30e446828b0d440a9471d
-      internalID: -553855099
+      spriteID: 28d9680503fbde84fb7ab0937d54e90a
+      internalID: -1351515602
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: elf1_5
+      name: stone1_5
       rect:
         serializedVersion: 2
         x: 720
@@ -236,14 +236,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ed7fa518a7ba90744812f9a5631af12e
-      internalID: -1625389090
+      spriteID: 0bb3cd01e3c99eb4282347a407b2a317
+      internalID: -881130220
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: elf1_6
+      name: stone1_6
       rect:
         serializedVersion: 2
         x: 0
@@ -257,14 +257,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e928b2ceb25bcd44fa896bb8563a3d4e
-      internalID: -1687510453
+      spriteID: 022a9317cea70a64bbc2bb03e87a0efe
+      internalID: -485023179
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: elf1_7
+      name: stone1_7
       rect:
         serializedVersion: 2
         x: 360
@@ -278,14 +278,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e26e7abb4ff61694389e8f1d50be0480
-      internalID: -1316939296
+      spriteID: a900363ed4219134497c5346c0a07cb9
+      internalID: -107429417
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: elf1_8
+      name: stone1_8
       rect:
         serializedVersion: 2
         x: 720
@@ -299,8 +299,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 494f8d2f9e9ee424895972686b6037e0
-      internalID: 968788587
+      spriteID: e9d86b1bcf6df1048aca9e2e93984992
+      internalID: -1531245973
       vertices: []
       indices: 
       edges: []
@@ -316,15 +316,15 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      elf1_1: -1305747019
-      elf1_3: 1226376814
-      elf1_2: -686093557
-      elf1_7: -1316939296
-      elf1_4: -553855099
-      elf1_0: 867351960
-      elf1_8: 968788587
-      elf1_5: -1625389090
-      elf1_6: -1687510453
+      stone1_4: -1351515602
+      stone1_0: 1406220737
+      stone1_8: -1531245973
+      stone1_7: -107429417
+      stone1_2: -351845624
+      stone1_6: -485023179
+      stone1_1: 1830090080
+      stone1_5: -881130220
+      stone1_3: -2061481346
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

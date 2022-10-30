@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 571da9dc51470e6459abcdac2b0d86bc
+guid: 36388258f9d4df148b9df26e1c28b354
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -117,7 +117,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: elf1_0
+      name: combat1_0
       rect:
         serializedVersion: 2
         x: 0
@@ -131,14 +131,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ff50cb46b7423e24a819a5ff2e2610ea
-      internalID: 867351960
+      spriteID: f3be72d751e569e469958e5e44a2b060
+      internalID: 1727872220
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: elf1_1
+      name: combat1_1
       rect:
         serializedVersion: 2
         x: 360
@@ -152,14 +152,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a46b57bfdaeaab449abf94a67ba62f6d
-      internalID: -1305747019
+      spriteID: 740aa3d11ceb6324e811ab35ce8d4b37
+      internalID: 1602613248
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: elf1_2
+      name: combat1_2
       rect:
         serializedVersion: 2
         x: 720
@@ -173,14 +173,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2efd76be99c9ea84c8b866a348a97c71
-      internalID: -686093557
+      spriteID: 96f0c8d20c699b040b56062d9b6d1ac8
+      internalID: 1849805716
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: elf1_3
+      name: combat1_3
       rect:
         serializedVersion: 2
         x: 0
@@ -194,14 +194,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8b4392ae25af08f49b4123d811b27fe4
-      internalID: 1226376814
+      spriteID: 0e6706b515c4dbc42a109aec6da2caf2
+      internalID: 2113103493
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: elf1_4
+      name: combat1_4
       rect:
         serializedVersion: 2
         x: 360
@@ -215,14 +215,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7b4e79b54cc30e446828b0d440a9471d
-      internalID: -553855099
+      spriteID: cb9e0cfbf82152e40a5cd8a6d54cfe62
+      internalID: 1756435846
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: elf1_5
+      name: combat1_5
       rect:
         serializedVersion: 2
         x: 720
@@ -236,14 +236,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ed7fa518a7ba90744812f9a5631af12e
-      internalID: -1625389090
+      spriteID: 9835b9e1e680ab646b9f3c9f129995fd
+      internalID: 1750413044
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: elf1_6
+      name: combat1_6
       rect:
         serializedVersion: 2
         x: 0
@@ -257,14 +257,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e928b2ceb25bcd44fa896bb8563a3d4e
-      internalID: -1687510453
+      spriteID: 071c97a9a6929f8429e909501398f84c
+      internalID: 33749169
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: elf1_7
+      name: combat1_7
       rect:
         serializedVersion: 2
         x: 360
@@ -278,14 +278,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e26e7abb4ff61694389e8f1d50be0480
-      internalID: -1316939296
+      spriteID: 06a3f742d7b1dad41b8160d13fd7ab4d
+      internalID: -865769509
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: elf1_8
+      name: combat1_8
       rect:
         serializedVersion: 2
         x: 720
@@ -299,8 +299,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 494f8d2f9e9ee424895972686b6037e0
-      internalID: 968788587
+      spriteID: 7eefa88b87d25ad45900bd29f5d83cc8
+      internalID: -2104886891
       vertices: []
       indices: 
       edges: []
@@ -316,15 +316,15 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      elf1_1: -1305747019
-      elf1_3: 1226376814
-      elf1_2: -686093557
-      elf1_7: -1316939296
-      elf1_4: -553855099
-      elf1_0: 867351960
-      elf1_8: 968788587
-      elf1_5: -1625389090
-      elf1_6: -1687510453
+      combat1_1: 1602613248
+      combat1_2: 1849805716
+      combat1_0: 1727872220
+      combat1_4: 1756435846
+      combat1_7: -865769509
+      combat1_8: -2104886891
+      combat1_3: 2113103493
+      combat1_5: 1750413044
+      combat1_6: 33749169
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 7b6816692e00ef7469baf4a4d82fdc2b
+guid: d28972c5ac1adb54cbd00b09ade74d58
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -117,7 +117,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: freddy3_0
+      name: station3_0
       rect:
         serializedVersion: 2
         x: 0
@@ -131,14 +131,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9ba6ad0ace71e5b4e8b3ce0bea95dbad
-      internalID: -528401391
+      spriteID: 20f75695d1e442346bd1c65e19476749
+      internalID: 266725528
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: freddy3_1
+      name: station3_1
       rect:
         serializedVersion: 2
         x: 216
@@ -152,14 +152,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1991eeea3520d5d4b9b415eda4127368
-      internalID: 1338759427
+      spriteID: cb897db875592ea47a794ee9038772a3
+      internalID: 1853678824
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: freddy3_2
+      name: station3_2
       rect:
         serializedVersion: 2
         x: 432
@@ -173,14 +173,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: badd7cec2bcc210429f2287df03ee8a3
-      internalID: 1320933728
+      spriteID: 13ffbdb16c743264a909a80eea8b69e4
+      internalID: -1545237617
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: freddy3_3
+      name: station3_3
       rect:
         serializedVersion: 2
         x: 648
@@ -194,14 +194,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fc4c80b0636789e43895614d43d515c9
-      internalID: 1338878270
+      spriteID: 1b10b5b259926434eb9e2eaa028ea481
+      internalID: -1370457378
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: freddy3_4
+      name: station3_4
       rect:
         serializedVersion: 2
         x: 864
@@ -215,14 +215,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 59476fd5a988bfd4e9ca1a325ff3f3e3
-      internalID: -426296408
+      spriteID: d740daad3fd182749b70c90908433dbb
+      internalID: 1570411231
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: freddy3_5
+      name: station3_5
       rect:
         serializedVersion: 2
         x: 0
@@ -236,14 +236,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 14bfa37321fdd2d42b6eadd5dd9769cb
-      internalID: -28638032
+      spriteID: 3aa3f32c704ffd940b731682006d50fe
+      internalID: -175808592
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: freddy3_6
+      name: station3_6
       rect:
         serializedVersion: 2
         x: 216
@@ -257,14 +257,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7dbeb561cffd86c47b4600f08e24dff2
-      internalID: 529186820
+      spriteID: 9898eefe47ecf0847a3b526b5ddf83fe
+      internalID: 1401559543
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: freddy3_7
+      name: station3_7
       rect:
         serializedVersion: 2
         x: 432
@@ -278,14 +278,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4c06f0655bb5649418fba6aeb43e8bc9
-      internalID: -2035301481
+      spriteID: 9903e9d43c19b0e4cafdfc3d9f825999
+      internalID: 1575998211
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: freddy3_8
+      name: station3_8
       rect:
         serializedVersion: 2
         x: 648
@@ -299,14 +299,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ece2d4cb559baf649bac5933196824d8
-      internalID: 355362679
+      spriteID: dfcf7939c939c8f4fa60f509611e3e17
+      internalID: -303601600
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: freddy3_9
+      name: station3_9
       rect:
         serializedVersion: 2
         x: 864
@@ -320,14 +320,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 004055d568c8a724caaae82df83866fe
-      internalID: 2018952053
+      spriteID: 62bb0c61a8c1aa04c939cc11f9181944
+      internalID: 283407479
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: freddy3_10
+      name: station3_10
       rect:
         serializedVersion: 2
         x: 0
@@ -341,14 +341,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 37d9453491d61114da05dd7ebe11789d
-      internalID: 467663604
+      spriteID: 6c48767d56e4b5c4d88b3b04a16b5878
+      internalID: -1531181088
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: freddy3_11
+      name: station3_11
       rect:
         serializedVersion: 2
         x: 216
@@ -362,14 +362,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1d07ce8ccf1783a4196f0e66fdcf766a
-      internalID: -2142481517
+      spriteID: e873b1a842f3e0e49a1ba8ba66dfd36f
+      internalID: -662102911
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: freddy3_12
+      name: station3_12
       rect:
         serializedVersion: 2
         x: 432
@@ -383,14 +383,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fbff4a4c32d576945b8cdd74c1dcd000
-      internalID: 690323389
+      spriteID: c2a68bcd5d027454799027cbe4a991b7
+      internalID: 1854064788
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: freddy3_13
+      name: station3_13
       rect:
         serializedVersion: 2
         x: 648
@@ -404,14 +404,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: aee0a77c1e9bd644998308bd6d66b088
-      internalID: -797443088
+      spriteID: a06c95aaad1c5c244a0303163d92821d
+      internalID: 268181759
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: freddy3_14
+      name: station3_14
       rect:
         serializedVersion: 2
         x: 864
@@ -425,14 +425,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 145c6634f31d1784081fca8e0ec1237e
-      internalID: 1066534818
+      spriteID: 78ed3f2ca3e9e124c8c76b363fbca1bb
+      internalID: 237513758
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: freddy3_15
+      name: station3_15
       rect:
         serializedVersion: 2
         x: 0
@@ -446,14 +446,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 940c5c902aebffa46849736cff6f0b56
-      internalID: -2024110154
+      spriteID: 6ef0dd0ba3da9e6428e0610cedfa5ad9
+      internalID: -1255313008
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: freddy3_16
+      name: station3_16
       rect:
         serializedVersion: 2
         x: 216
@@ -467,14 +467,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 235ee3891c9b0994191a888e59f20e34
-      internalID: 1014403539
+      spriteID: ece460d0350a97f4395cb683cbca0ec7
+      internalID: -1597860106
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: freddy3_17
+      name: station3_17
       rect:
         serializedVersion: 2
         x: 432
@@ -488,14 +488,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e8f73a697b104e34cb9a873575b33100
-      internalID: 705168938
+      spriteID: ce7ab1238be538447bf0fd16ceddca76
+      internalID: -1492980853
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: freddy3_18
+      name: station3_18
       rect:
         serializedVersion: 2
         x: 648
@@ -509,14 +509,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f96a4e7a7edd6c545b11f3de987f29d9
-      internalID: 204866836
+      spriteID: abf3d8c14044a714a83caef963713905
+      internalID: -74614062
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: freddy3_19
+      name: station3_19
       rect:
         serializedVersion: 2
         x: 864
@@ -530,14 +530,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6ad5f88cda3d9304a9039869b186f33a
-      internalID: -101288126
+      spriteID: 3160b84c66cdec54da40c653d7dff3f6
+      internalID: -103769011
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: freddy3_20
+      name: station3_20
       rect:
         serializedVersion: 2
         x: 0
@@ -551,14 +551,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 41b4e25e63680f24fb38cf26d263133c
-      internalID: -697842148
+      spriteID: 0ca25e580064df54ab51172bd2057c6d
+      internalID: 1645709343
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: freddy3_21
+      name: station3_21
       rect:
         serializedVersion: 2
         x: 216
@@ -572,14 +572,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: edca2d0d57fa4024d95df90a0ced1724
-      internalID: 972680130
+      spriteID: 5f485372dbda81d4395df8ff7c49fce6
+      internalID: 1637554244
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: freddy3_22
+      name: station3_22
       rect:
         serializedVersion: 2
         x: 432
@@ -593,14 +593,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0a6bf8acd77514148a17be2e40667495
-      internalID: -1561027879
+      spriteID: 1d02cb43def5dee4ba189df42f768b91
+      internalID: -223912531
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: freddy3_23
+      name: station3_23
       rect:
         serializedVersion: 2
         x: 648
@@ -614,14 +614,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5264a895a6e1e9a48a51b35c20b2e44e
-      internalID: -1450900743
+      spriteID: 57646403e55ed1d49b1ad8cbee96e58b
+      internalID: -1568645252
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: freddy3_24
+      name: station3_24
       rect:
         serializedVersion: 2
         x: 864
@@ -635,8 +635,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 69bf27a66a329f049abab540a48f7208
-      internalID: -648797065
+      spriteID: 7a2161499edebf040b9ee048e5e12756
+      internalID: -103332148
       vertices: []
       indices: 
       edges: []
@@ -652,31 +652,31 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      freddy3_11: -2142481517
-      freddy3_13: -797443088
-      freddy3_16: 1014403539
-      freddy3_21: 972680130
-      freddy3_2: 1320933728
-      freddy3_18: 204866836
-      freddy3_0: -528401391
-      freddy3_5: -28638032
-      freddy3_24: -648797065
-      freddy3_12: 690323389
-      freddy3_23: -1450900743
-      freddy3_4: -426296408
-      freddy3_10: 467663604
-      freddy3_1: 1338759427
-      freddy3_7: -2035301481
-      freddy3_19: -101288126
-      freddy3_22: -1561027879
-      freddy3_17: 705168938
-      freddy3_3: 1338878270
-      freddy3_8: 355362679
-      freddy3_6: 529186820
-      freddy3_9: 2018952053
-      freddy3_14: 1066534818
-      freddy3_20: -697842148
-      freddy3_15: -2024110154
+      station3_0: 266725528
+      station3_16: -1597860106
+      station3_9: 283407479
+      station3_3: -1370457378
+      station3_19: -103769011
+      station3_21: 1637554244
+      station3_22: -223912531
+      station3_11: -662102911
+      station3_12: 1854064788
+      station3_1: 1853678824
+      station3_14: 237513758
+      station3_17: -1492980853
+      station3_15: -1255313008
+      station3_5: -175808592
+      station3_18: -74614062
+      station3_23: -1568645252
+      station3_6: 1401559543
+      station3_7: 1575998211
+      station3_8: -303601600
+      station3_20: 1645709343
+      station3_2: -1545237617
+      station3_24: -103332148
+      station3_10: -1531181088
+      station3_4: 1570411231
+      station3_13: 268181759
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
