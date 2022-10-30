@@ -94,6 +94,13 @@ MonoBehaviour:
   m_GameObject: {fileID: 1731351100582892202}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a8d4eca2c705f664caa4f6e7786f709a, type: 3}
+  m_Script: {fileID: 11500000, guid: 3db2c16591ba36f4a80761670bed4a43, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  clicked: 0
+  moved: 0
+  goLeft: 0
+  goRight: 0
+  goDown: 0
+  goUp: 0
+  moveAmount: {x: 0, y: 0}

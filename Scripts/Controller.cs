@@ -13,6 +13,7 @@ public class Controller : MonoBehaviour
     private List<Vector3> puzzlePositions = new List<Vector3>();
     private List<int> randomNumbers = new List<int>();
     public static string image;
+    public static string level;
 
     private Vector2 startPosition = new Vector2(-5.3f, 2.5f);
 
@@ -195,12 +196,12 @@ public class Controller : MonoBehaviour
 
     void bindImage()
     {
-        string filePath = "Sprite/Puzzle/"+image+"1";
+        string filePath = "Sprite/Puzzle/" + image;
         //string defaultImg = "Sprite/Puzzle/whitebox";
         string spriteName;
         for (int i = 0; i < puzzleList.Count; i++)
         {
-            spriteName = image+"1_" + i;
+            spriteName = image + level + "_" + i;
             puzzleList[i].GetComponent<SpriteRenderer>().sprite = LoadSprite(filePath, spriteName);
         }
 
