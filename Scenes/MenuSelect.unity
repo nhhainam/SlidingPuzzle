@@ -252,6 +252,7 @@ GameObject:
   - component: {fileID: 535814193}
   - component: {fileID: 535814192}
   - component: {fileID: 535814195}
+  - component: {fileID: 535814196}
   m_Layer: 0
   m_Name: ExitButton
   m_TagString: Untagged
@@ -352,6 +353,19 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 1.53, y: 1.43, z: 0.2}
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &535814196
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 535814191}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b4ea9c33fbf936043a07368800d5c3c8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sceneName: 
 --- !u!1 &856168015
 GameObject:
   m_ObjectHideFlags: 0
@@ -447,7 +461,7 @@ GameObject:
   - component: {fileID: 1129525368}
   - component: {fileID: 1129525371}
   - component: {fileID: 1129525370}
-  - component: {fileID: 1129525369}
+  - component: {fileID: 1129525372}
   m_Layer: 0
   m_Name: RightArrow
   m_TagString: Untagged
@@ -470,19 +484,6 @@ Transform:
   m_Father: {fileID: 328245249}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1129525369
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1129525367}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ceb2c69939aa1ae4eafbe6cae0894b35, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  sceneName: MenuSelect2
 --- !u!65 &1129525370
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -548,6 +549,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1129525372
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1129525367}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb2c69939aa1ae4eafbe6cae0894b35, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sceneName: MenuSelect2
 --- !u!1 &1202214968
 GameObject:
   m_ObjectHideFlags: 0
@@ -912,7 +926,7 @@ GameObject:
   - component: {fileID: 1758655422}
   - component: {fileID: 1758655425}
   - component: {fileID: 1758655424}
-  - component: {fileID: 1758655423}
+  - component: {fileID: 1758655426}
   m_Layer: 0
   m_Name: LeftArrow
   m_TagString: Untagged
@@ -935,19 +949,6 @@ Transform:
   m_Father: {fileID: 328245249}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1758655423
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1758655421}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ceb2c69939aa1ae4eafbe6cae0894b35, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  sceneName: MenuSelect
 --- !u!65 &1758655424
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1013,6 +1014,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1758655426
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1758655421}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb2c69939aa1ae4eafbe6cae0894b35, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sceneName: MenuSelect
 --- !u!1 &1761568584
 GameObject:
   m_ObjectHideFlags: 0

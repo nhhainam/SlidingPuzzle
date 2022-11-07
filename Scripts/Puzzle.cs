@@ -1,6 +1,5 @@
 using System.Collections;
 using System.Collections.Generic;
-using Unity.VisualScripting;
 using UnityEngine;
 
 public class Puzzle : MonoBehaviour
@@ -17,7 +16,7 @@ public class Puzzle : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+
     }
 
     // Update is called once per frame
@@ -41,25 +40,25 @@ public class Puzzle : MonoBehaviour
     {
         if (goLeft)
         {
-            transform.position = new Vector2(transform.position.x - moveAmount.x,transform.position.y);
+            transform.position = new Vector2(transform.position.x - moveAmount.x, transform.position.y);
             goLeft = false;
             moved = true;
         }
         else if (goRight)
         {
-            transform.position = new Vector2(transform.position.x + moveAmount.x,transform.position.y);
+            transform.position = new Vector2(transform.position.x + moveAmount.x, transform.position.y);
             goRight = false;
             moved = true;
         }
         else if (goUp)
         {
-            transform.position = new Vector2(transform.position.x,transform.position.y + moveAmount.y);
+            transform.position = new Vector2(transform.position.x, transform.position.y + moveAmount.y);
             goUp = false;
             moved = true;
         }
         else if (goDown)
         {
-            transform.position = new Vector2(transform.position.x,transform.position.y - moveAmount.y);
+            transform.position = new Vector2(transform.position.x, transform.position.y - moveAmount.y);
             goDown = false;
             moved = true;
         }

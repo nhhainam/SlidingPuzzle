@@ -217,10 +217,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 519420028}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7b27e774ad6e9b94c9458fd95a296f0e, type: 3}
+  m_Script: {fileID: 11500000, guid: 6fe8549fd9f4f044287fd03ea78b618e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  puzzlePrefabs: {fileID: -3048923519170793647, guid: dd69a7078866add46b285ff766bf1d02, type: 3}
+  puzzlePrefabs: {fileID: 4643879108061061486, guid: 71b804ad1c0c19941897022c70ae37b6, type: 3}
   fullPicture: {fileID: 676871355}
   collisionMask:
     serializedVersion: 2
