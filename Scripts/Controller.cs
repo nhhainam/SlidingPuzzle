@@ -10,7 +10,9 @@ public class Controller : MonoBehaviour
 
     private List<Puzzle> puzzleList = new List<Puzzle>();
     private List<Vector3> puzzlePositions = new List<Vector3>();
+    private List<Vector3> winPositions = new List<Vector3>();
     private List<int> randomNumbers = new List<int>();
+    private bool isFinished = false;
     public static string image;
     public static string level;
     public GameObject fullPicture;
@@ -77,7 +79,7 @@ public class Controller : MonoBehaviour
     void Update()
     {
         MovePuzzle();
-
+        
     }
 
     void SpawnPuzzle(int row, int col)
@@ -102,11 +104,13 @@ public class Controller : MonoBehaviour
                 if (i == col - 1 && j == row - 1)
                 {
                     continue;
-                    ;
                 }
 
                 puzzleList[col * i + j].transform.position = new Vector2(startPosition.x + j * puzzleSize.x,
                     startPosition.y - i * puzzleSize.y);
+                Vector2 temp = new Vector2(startPosition.x + j * puzzleSize.x,
+                    startPosition.y - i * puzzleSize.y);
+                winPositions.Add(temp);
             }
         }
     }
@@ -120,21 +124,20 @@ public class Controller : MonoBehaviour
             {
                 collider = puzzle.GetComponent<BoxCollider>();
                 colliderSize = collider.size;
-                colliderCenter = collider.center;
                 float moveAmount = puzzleSize.x;
                 float direction = Mathf.Sign(moveAmount);
 
-                float x = (puzzle.transform.position.x + colliderCenter.x - colliderSize.x / 2) + colliderSize.x / 2;
-                float yUp = puzzle.transform.position.y + colliderCenter.y + colliderSize.y / 2 * direction;
-                float yDown = puzzle.transform.position.y + colliderCenter.y + colliderSize.y / 2 * -direction;
+                float x = (puzzle.transform.position.x - colliderSize.x / 2) + colliderSize.x / 2;
+                float yUp = puzzle.transform.position.y + colliderSize.y / 2 * direction;
+                float yDown = puzzle.transform.position.y + colliderSize.y / 2 * -direction;
                 rayUp = new Ray(new Vector2(x, yUp), new Vector2(0, direction));
                 rayDown = new Ray(new Vector2(x, yDown), new Vector2(0, -direction));
                 Debug.DrawRay(rayUp.origin, rayUp.direction);
                 Debug.DrawRay(rayDown.origin, rayDown.direction);
 
-                float y = (puzzle.transform.position.y + colliderCenter.y - colliderSize.y / 2) + colliderSize.y / 2;
-                float xLeft = puzzle.transform.position.x + colliderCenter.x + colliderSize.x / 2 * -direction;
-                float xRight = puzzle.transform.position.x + colliderCenter.x + colliderSize.x / 2 * direction;
+                float y = (puzzle.transform.position.y - colliderSize.y / 2) + colliderSize.y / 2;
+                float xLeft = puzzle.transform.position.x + colliderSize.x / 2 * -direction;
+                float xRight = puzzle.transform.position.x + colliderSize.x / 2 * direction;
                 ;
                 rayLeft = new Ray(new Vector2(xLeft, y), new Vector2(-direction, 0));
                 rayRight = new Ray(new Vector2(xRight, y), new Vector2(direction, 0));
@@ -142,7 +145,7 @@ public class Controller : MonoBehaviour
                 Debug.DrawRay(rayRight.origin, rayRight.direction);
 
                 if ((Physics.Raycast(rayUp, out hit, 1.0f, collisionMask) == false) && (puzzle.moved == false) &&
-                    puzzle.transform.position.y < startPosition.y)
+                    (puzzle.transform.position.y+0.3f) < startPosition.y)
                 {
                     Debug.Log("MoveUp");
                     puzzle.goUp = true;
@@ -150,7 +153,7 @@ public class Controller : MonoBehaviour
 
                 if ((Physics.Raycast(rayDown, out hit, 1.0f, collisionMask) == false) && (puzzle.moved == false))
                 {
-                    if ((puzzle.transform.position.y > (startPosition.y - row * (puzzleSize.y-0.3f))))
+                    if (((puzzle.transform.position.y-0.3f) > (startPosition.y - row * puzzleSize.y)))
                     {
                         Debug.Log(puzzle.transform.position.y);
                         Debug.Log(startPosition.y);
@@ -161,18 +164,20 @@ public class Controller : MonoBehaviour
                 }
 
                 if (Physics.Raycast(rayLeft, out hit, 1.0f, collisionMask) == false && puzzle.moved == false &&
-                    puzzle.transform.position.x > startPosition.x)
+                    (puzzle.transform.position.x-0.3f) > startPosition.x)
                 {
                     Debug.Log("MoveLeft");
                     puzzle.goLeft = true;
                 }
 
                 if (Physics.Raycast(rayRight, out hit, 1.0f, collisionMask) == false && puzzle.moved == false &&
-                    puzzle.transform.position.x < (startPosition.x + row * puzzleSize.x))
+                    (puzzle.transform.position.x+0.3f) < (startPosition.x + row * puzzleSize.x))
                 {
                     Debug.Log("MoveRight");
                     puzzle.goRight = true;
                 }
+
+                checkFinish();
             }
         }
     }
@@ -194,6 +199,20 @@ public class Controller : MonoBehaviour
         return numberInversions;
     }
 
+    private bool checkFinish()
+    {
+        isFinished = false;
+        for (int i = 0; i < puzzleList.Count; i++)
+        {
+            if (!puzzleList[i].transform.position.Equals(winPositions[i]))
+            {
+                return isFinished;
+            }
+        }
+        Debug.Log("finish");
+        isFinished = true;
+        return isFinished;
+    }
     List<int> GenerateRandomPuzzle()
     {
         int number;
@@ -258,6 +277,8 @@ public class Controller : MonoBehaviour
 
 
     }
+
+
 
     Sprite LoadSprite(string filePath, string spriteName)
     {
