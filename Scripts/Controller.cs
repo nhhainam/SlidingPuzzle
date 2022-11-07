@@ -33,6 +33,10 @@ public class Controller : MonoBehaviour
 
     private Vector2 colliderCenter;
 
+    public GameFinish gameFinish;
+
+    public int playerMoved;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -79,7 +83,6 @@ public class Controller : MonoBehaviour
     void Update()
     {
         MovePuzzle();
-        
     }
 
     void SpawnPuzzle(int row, int col)
@@ -149,6 +152,7 @@ public class Controller : MonoBehaviour
                 {
                     Debug.Log("MoveUp");
                     puzzle.goUp = true;
+                    playerMoved++;
                 }
 
                 if ((Physics.Raycast(rayDown, out hit, 1.0f, collisionMask) == false) && (puzzle.moved == false))
@@ -160,6 +164,7 @@ public class Controller : MonoBehaviour
                         Debug.Log(row * puzzleSize.y);
                         Debug.Log("MoveDown");
                         puzzle.goDown = true;
+                        playerMoved++;
                     }
                 }
 
@@ -168,6 +173,7 @@ public class Controller : MonoBehaviour
                 {
                     Debug.Log("MoveLeft");
                     puzzle.goLeft = true;
+                    playerMoved++;
                 }
 
                 if (Physics.Raycast(rayRight, out hit, 1.0f, collisionMask) == false && puzzle.moved == false &&
@@ -175,6 +181,7 @@ public class Controller : MonoBehaviour
                 {
                     Debug.Log("MoveRight");
                     puzzle.goRight = true;
+                    playerMoved++;
                 }
 
                 checkFinish();
@@ -211,6 +218,10 @@ public class Controller : MonoBehaviour
         }
         Debug.Log("finish");
         isFinished = true;
+        if (isFinished)
+        {
+            Finish();
+        }
         return isFinished;
     }
     List<int> GenerateRandomPuzzle()
@@ -292,5 +303,9 @@ public class Controller : MonoBehaviour
             }
         }
         return null;
+    }
+    public void Finish()
+    {
+        gameFinish.Setup(playerMoved);
     }
 }
