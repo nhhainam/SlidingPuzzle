@@ -211,7 +211,7 @@ public class Controller : MonoBehaviour
         isFinished = false;
         for (int i = 0; i < puzzleList.Count; i++)
         {
-            if (!puzzleList[i].transform.position.Equals(winPositions[i]))
+            if (!(puzzleList[i].transform.position == winPositions[i]))
             {
                 return isFinished;
             }
