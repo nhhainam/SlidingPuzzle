@@ -159,9 +159,6 @@ public class Controller : MonoBehaviour
                 {
                     if (((puzzle.transform.position.y-0.3f) > (startPosition.y - row * puzzleSize.y)))
                     {
-                        Debug.Log(puzzle.transform.position.y);
-                        Debug.Log(startPosition.y);
-                        Debug.Log(row * puzzleSize.y);
                         Debug.Log("MoveDown");
                         puzzle.goDown = true;
                         playerMoved++;
@@ -208,6 +205,7 @@ public class Controller : MonoBehaviour
 
     private bool checkFinish()
     {
+        gameFinish.Sync(playerMoved);
         isFinished = false;
         for (int i = 0; i < puzzleList.Count; i++)
         {
